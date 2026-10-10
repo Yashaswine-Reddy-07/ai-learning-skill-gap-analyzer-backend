@@ -1,0 +1,25 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Compiled class files & build artifacts
+target/
+*.class
+
+# Log files
+*.log
+logs/
+
+# IDE / Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS specific
+Thumbs.db
+Desktop.ini
+.DS_Store
